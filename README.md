@@ -88,7 +88,7 @@ Brick-Breaker-Game/
 
 ## 👨‍💻 Author
 
-**Your Name**
+S.Sridevi
 
 Computer Engineering Student
 
